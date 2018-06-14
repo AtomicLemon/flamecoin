@@ -3,7 +3,7 @@ Flamecoin Core
 
 Setup
 ---------------------
-Flamecoin Core is the original Flamecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Flamecoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+Flamecoin Core is the original Flamecoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Flamecoin transactions depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few minutes to a few hours or more.
 
 To download Flamecoin Core, visit [flamecoin.co](https://flamecoin.co).
 
@@ -58,8 +58,8 @@ The Flamecoin repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [FlamecoinTalk](https://flamecointalk.io/) forums.
-* Discuss general Flamecoin development on #flamecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=flamecoin-dev).
+* Discuss on the [Flamecoin Forums](https://flamecoin.co/forum/)
+* Discuss general Flamecoin development on #development on Discord. If you are not in the discord server, [join here.](https://discord.gg/jVzzxju)
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
