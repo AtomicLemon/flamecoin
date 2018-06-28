@@ -39,7 +39,7 @@ There are a few types of branches in this repository:
 
  - Where can I download a working build?
  
-You can download from our offical website. (https://flamecoin.co)
+ Under the releases page on github the latest binarys can be found. (The first working version will be released before the 1st of May)
  
 
 
