@@ -39,7 +39,7 @@ There are a few types of branches in this repository:
 
  - Where can I download a working build?
  
-You can download from our offical website. (https://flamecoin.co)
+You can download from our official website. (https://flamecoin.co)
  
 
 
