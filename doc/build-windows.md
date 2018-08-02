@@ -1,6 +1,8 @@
 WINDOWS BUILD NOTES
 ====================
 
+(Keep in mind that you do not need to build, you can download from our website. https://flamecoin.co)
+
 Below are some notes on how to build Flamecoin Core for Windows.
 
 The options known to work for building Flamecoin Core on Windows are:
@@ -105,7 +107,7 @@ This means you cannot use a directory that located directly on the host Windows 
 The next three steps are an example of how to acquire the source in an appropriate way.
 
     cd /usr/src
-    sudo git clone https://github.com/flamecoin-project/flamecoin.git
+    sudo git clone https://github.com/flamecoin/flamecoin.git
     sudo chmod -R a+rw flamecoin
 
 Once the source code is ready the build steps are below.
