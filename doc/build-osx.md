@@ -1,4 +1,4 @@
-Mac OS X Build Instructions and Notes
+Mac OS X/Mac OS Build Instructions and Notes
 ====================================
 The commands in this guide should be executed in a Terminal application.
 The built-in one is located in `/Applications/Utilities/Terminal.app`.
@@ -33,7 +33,7 @@ Build Flamecoin Core
 
 1. Clone the flamecoin source code and cd into `flamecoin`
 
-        git clone https://github.com/flamecoin-project/flamecoin
+        git clone https://github.com/flamecoin/flamecoin
         cd flamecoin
 
 2.  Build flamecoin-core:
