@@ -40,6 +40,10 @@ There are a few types of branches in this repository:
  - Where can I download a working build?
  
 You can download from our official website. (https://flamecoin.co)
+
+- I just need help!
+
+We have discord for all questions. (https://discord.gg/HnZt6Pm)
  
 
 
@@ -52,23 +56,10 @@ You can download from our official website. (https://flamecoin.co)
   - [Windows Build Notes](doc/build-windows.md)
 
 ### Ports
-9192
 
-RPC 9191
+Network: 9192
+RPC: 9191
 
-
-
-Translations
-------------
-
-Changes to translations, as well as new translations, can be submitted to
-[Bitcoin Core's Transifex page](https://www.transifex.com/projects/p/bitcoin/).
-
-Periodically the translations are pulled from Transifex and merged into the git repository. See the
-[translation process](doc/translation_process.md) for details on how this works.
-
-If the changes are Flamecoin specific, they can be submitted as pull requests against this repository.
-If it is a general translation, consider submitting it through upstream, as we will pull these changes later on.
 
 Development tips and tricks
 ---------------------------
@@ -97,14 +88,3 @@ are testing multi-machine code that needs to operate across the internet.
 If you are testing something that can run on one machine, run with the -regtest option.
 In regression test mode, blocks can be created on-demand; see qa/rpc-tests/ for tests
 that run in -regtest mode.
-
-**DEBUG_LOCKORDER**
-
-Flamecoin Core is a multithreaded application, and deadlocks or other multithreading bugs
-can be very difficult to track down. Compiling with -DDEBUG_LOCKORDER (configure
-CXXFLAGS="-DDEBUG_LOCKORDER -g") inserts run-time checks to keep track of which locks
-are held, and adds warnings to the debug.log file if inconsistencies are detected.
-
-
-**Thanks To:**
-  - [Paul DeCarlo] For making the Tutorial on how to make an altcoin. (https://www.hackster.io/pjdecarlo/how-to-make-a-cryptocurrency-using-litecoin-v0-15-source-fb5e82)
