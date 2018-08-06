@@ -5,7 +5,7 @@ Before every release candidate:
 
 * Update translations (ping wumpus on IRC) see [translation_process.md](https://github.com/bitcoin/bitcoin/blob/master/doc/translation_process.md#synchronising-translations).
 
-* Update manpages, see [gen-manpages.sh](https://github.com/flamecoin-project/flamecoin/blob/master/contrib/devtools/README.md#gen-manpagessh).
+* Update manpages, see [gen-manpages.sh](https://github.com/flamecoin/flamecoin/blob/master/contrib/devtools/README.md#gen-manpagessh).
 
 Before every minor and major release:
 
@@ -33,10 +33,10 @@ If you're using the automated script (found in [contrib/gitian-build.sh](/contri
 Check out the source code in the following directory hierarchy.
 
     cd /path/to/your/toplevel/build
-    git clone https://github.com/flamecoin-project/gitian.sigs.ltc.git
-    git clone https://github.com/flamecoin-project/flamecoin-detached-sigs.git
+    git clone https://github.com/flamecoin/gitian.sigs.ltc.git
+    git clone https://github.com/flamecoin/flamecoin-detached-sigs.git
     git clone https://github.com/devrandom/gitian-builder.git
-    git clone https://github.com/flamecoin-project/flamecoin.git
+    git clone https://github.com/flamecoin/flamecoin.git
 
 ### Flamecoin maintainers/release engineers, suggestion for writing release notes
 
