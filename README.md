@@ -3,8 +3,6 @@
 
 <a href="https://ibb.co/gPL977"><img src="https://preview.ibb.co/ipDkfS/105695_OMLJSE_613.png" alt="105695_OMLJSE_613" border="0"></a>
 
-[![Build Status](https://travis-ci.org/flamecoin/flamecoin.svg)](https://travis-ci.org/flamecoin/flamecoin)
-
 ## What is Flamecoin?
 Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Flamecoin currently employs a simplified variant of scrypt.
 
