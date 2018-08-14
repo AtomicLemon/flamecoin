@@ -1,5 +1,6 @@
 // Copyright (c) 2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
+// Copyright (c) 2018 The Flamecoin Core developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -86,8 +87,6 @@ UniValue getinfo(const JSONRPCRequest& request)
     GetProxy(NET_IPV4, proxy);
 
     UniValue obj(UniValue::VOBJ);
-    obj.push_back(Pair("deprecation-warning", "WARNING: getinfo is deprecated and will be fully removed in 0.16."
-        " Projects should transition to using getblockchaininfo, getnetworkinfo, and getwalletinfo before upgrading to 0.16"));
     obj.push_back(Pair("version", CLIENT_VERSION));
     obj.push_back(Pair("protocolversion", PROTOCOL_VERSION));
 #ifdef ENABLE_WALLET
