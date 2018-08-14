@@ -57,7 +57,8 @@ We have discord for all questions. (https://discord.gg/HnZt6Pm)
 
 ### Ports
 
-Network: 9192
+Main Network: 9192
+
 RPC: 9191
 
 
