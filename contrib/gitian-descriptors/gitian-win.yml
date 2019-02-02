@@ -1,5 +1,5 @@
 ---
-name: "flamecoin-win-0.15"
+name: "flamecoin-win-1.0"
 enable_cache: true
 suites:
 - "trusty"
