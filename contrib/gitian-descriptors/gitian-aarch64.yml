@@ -1,5 +1,5 @@
 ---
-name: "flamecoin-aarch64-1.7.2"
+name: "flamecoin-aarch64-1.0.5"
 enable_cache: true
 suites:
 - "xenial"
