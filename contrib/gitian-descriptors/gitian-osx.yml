@@ -1,5 +1,5 @@
 ---
-name: "flamecoin-osx-1.7.2"
+name: "flamecoin-osx-1.0.5"
 enable_cache: true
 suites:
 - "trusty"
@@ -28,7 +28,7 @@ packages:
 - "python-setuptools"
 - "fonts-tuffy"
 remotes:
-- "url": "https://github.com/faetos/flamecoin.git"
+- "url": "https://github.com/flamecoin/flamecoin.git"
   "dir": "flamecoin"
 files:
 - "MacOSX10.11.sdk.tar.gz"
