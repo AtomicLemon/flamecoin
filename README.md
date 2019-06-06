@@ -6,14 +6,13 @@
 ## What is Flamecoin?
 Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Flamecoin currently employs a simplified variant of scrypt.
 
-### Flamecoin's Website: https://flamecoin.co
 
 ## Social Media:
 - **Reddit:** https://reddit.com/r/flamecoincrypto
 
 - **Telegram Chat:** http://t.me/flamecoin
 
-- **Discord:** https://discord.gg/HnZt6Pm
+- **Discord:** https://discord.gg/xWsunqa
 
 
 ## License
@@ -34,18 +33,6 @@ There are a few types of branches in this repository:
 - **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
 
 *Master and maintenance branches are exclusively mutable by release. Planned releases will always have a development branch and pull requests should be submitted against those. Maintenance branches are there for* ***bug fixes only,*** *please submit new features against the development branch with the highest version.*
-
-## Frequently Asked Questions:
-
- - Where can I download a working build?
- 
-You can download from our official website. (https://flamecoin.co)
-
-- I just need help!
-
-We have discord for all questions. (https://discord.gg/HnZt6Pm)
- 
-
 
 ### How to build yourself:
 
