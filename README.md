@@ -6,14 +6,12 @@
 ## What is Flamecoin?
 Flamecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as its proof of work (POW). Taking development cues from Tenebrix and Litecoin, Flamecoin currently employs a simplified variant of scrypt.
 
-### Flamecoin's Website: https://flamecoin.co
-
 ## Social Media:
 - **Reddit:** https://reddit.com/r/flamecoincrypto
 
 - **Telegram Chat:** http://t.me/flamecoin
 
-- **Discord:** https://discord.gg/HnZt6Pm
+- **Discord:** https://discord.gg/xWsunqa
 
 
 ## License
